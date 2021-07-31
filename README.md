@@ -7,9 +7,9 @@ A Magiak module of Alpine minimal environment.
 Very easy,but may very complex(for some users),3 steps to complete, another one is optional.
 
 ### STEP 1
-下载**Alpine_Chroot_rootfs.zip**，**Alpine_Chroot_Extractor.zip**
+在Release下载**Alpine_Chroot_rootfs.zip**，**Alpine_Chroot_Extractor.zip**
 
-Download **Alpine_Chroot_rootfs.zip**,**Alpine_Chroot_Extractor.zip**
+Download **Alpine_Chroot_rootfs.zip**,**Alpine_Chroot_Extractor.zip** at Release page.
 
 ### STEP 2
 打开Magisk，刷写**Alpine_Chroot_rootfs.zip**，然后重启手机。
