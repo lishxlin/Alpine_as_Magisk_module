@@ -23,7 +23,7 @@ Open Magisk,flash **Alpine_Chroot_rootfs.zip** then reboot your phone.
 ### STEP 3
 重启后，请刷写**Alpine_Chroot_Extractor.zip**，这个时候再次重启手机，下一次开机后，便可以使用<kbd>alpine_launcher</kbd>指令启动Alpine Chroot了
 
-After you reboot,you need flash another package **1Alpine_Chroot_Extractor.zip**,after flash,you need reboot again.After this reboot,you can use command <kbd>alpine_launcher</kbd> to start Alpine Chroot.
+After you reboot,you need flash another package **Alpine_Chroot_Extractor.zip**,after flash,you need reboot again，then you can use command <kbd>alpine_launcher</kbd> to start Alpine Chroot.
 
 ### STEP 4 (OPTIONAL)
 移除模块**Alpine Chroot Rootfs Extractor**
