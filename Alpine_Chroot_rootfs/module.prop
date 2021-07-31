@@ -1,0 +1,6 @@
+id=alpine_chroot_rootfs_package
+name=Alpine Chroot Rootfs Package
+version=v1.0
+versionCode=1
+author=LiShXlin
+description=The base packages to place alpine rootfs.

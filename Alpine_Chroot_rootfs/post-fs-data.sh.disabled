@@ -1,0 +1,5 @@
+MODDIR=${0%/*}
+alpine=${MODDIR}/rootfs
+mount -o bind /dev ${alpine}/dev
+mount -o bind /proc ${alpine}/proc
+mount -o bind /sys ${alpine}/sys
