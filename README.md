@@ -1,3 +1,5 @@
+# 因个人学业原因，此仓库在2022.3.18至2022.6.9之间保持存档状态
+---
 # 这是什么？What's this?
 一个包含了Alpine最小化运行环境的magisk模块。
 A Magiak module of Alpine minimal environment.
